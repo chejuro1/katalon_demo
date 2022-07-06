@@ -22,10 +22,74 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef2d8744-31ac-440b-849b-cc90f5468089</webElementGuid>
+      <webElementGuid>732233b4-93af-4f9f-a093-04901761d754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>24405715-5784-4309-9254-af77c2da9000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>f92d6bac-6922-4071-a15e-f8adb73202d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>8e67932f-3033-43dc-91b4-76893449eb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>react-autowhatever-1</value>
+      <webElementGuid>0d7e0942-24fd-403a-bd3b-4569d6e1c640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auto_input__2ud9e</value>
+      <webElementGuid>fdb17606-58e8-480c-a5ad-c274a8e9ae18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search...</value>
+      <webElementGuid>1b44967b-cd10-49cf-88ab-4cf476d8b584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;productOverview_outbox__1y4XD&quot;]/div[@class=&quot;header_outbox__3eyFu&quot;]/div[@class=&quot;header_content__7Jk3i&quot;]/div[@class=&quot;header_right__2--5t&quot;]/div[@class=&quot;search_outbox__17Hk9&quot;]/div[@class=&quot;search_auto__TZ-uB&quot;]/div[@class=&quot;auto_container__Z0WS6&quot;]/input[@class=&quot;auto_input__2ud9e&quot;]</value>
+      <webElementGuid>a559dce9-9e25-4e04-9a07-8c826a0938e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ef2d8744-31ac-440b-849b-cc90f5468089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -65,7 +129,7 @@
       <webElementGuid>c0c1c0ef-058a-4e1a-a44e-71c74f84552f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -86,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>ba789c04-2535-45f6-a545-5ac5baeaacbe</webElementGuid>
+      <webElementGuid>0c8c3f31-082c-452f-9b00-74e1a763c5ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/div[3]/div/div[2]/div/input</value>
-      <webElementGuid>717e5de9-029c-4251-8ab0-7730c96e6ab9</webElementGuid>
+      <webElementGuid>310a1da5-65cd-4c0a-9507-2f265bf1e751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>64de2fc4-d675-43a6-869f-64e96337a2df</webElementGuid>
+      <webElementGuid>69b9e0b6-0e44-4cf1-983c-733ff2979de1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search...']</value>
-      <webElementGuid>38c66db9-cec1-45de-8812-129b54e69eb5</webElementGuid>
+      <webElementGuid>ab0227fa-75ab-4bf1-ac62-da4f979b27de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

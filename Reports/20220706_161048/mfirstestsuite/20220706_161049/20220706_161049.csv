@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+mfirstestsuite,Chrome 103.0.5060.114,,,2022-07-06 16:10:54,2022-07-06 16:11:56,1m - 1.958s,PASSED
+,,,,,,,
+Test Cases/mytestcase,Chrome 103.0.5060.114,,,2022-07-06 16:10:54,2022-07-06 16:11:56,1m - 1.625s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-06 16:10:55,2022-07-06 16:10:58,2.877s,PASSED
+"navigateToUrl(""https://demo-store.katalon.com/"")",Chrome 103.0.5060.114,,,2022-07-06 16:10:58,2022-07-06 16:11:00,2.014s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/label_Ascending""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:00,2022-07-06 16:11:00,0.527s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:00,2022-07-06 16:11:01,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:01,2022-07-06 16:11:01,0.628s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:01,2022-07-06 16:11:02,0.575s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/label_Greater Than 89""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:02,2022-07-06 16:11:03,0.628s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/span_Clear All""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:03,2022-07-06 16:11:03,0.512s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/img_Clear All_card-img-top""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:03,2022-07-06 16:11:04,0.558s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/a_Women""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:04,2022-07-06 16:11:06,2.179s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/a_Blazer""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:06,2022-07-06 16:11:08,2.099s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/label_49 - 89""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:08,2022-07-06 16:11:10,1.949s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_All Products""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:10,2022-07-06 16:11:12,2.058s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:12,2022-07-06 16:11:14,1.966s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_All Products_search_icon__1puna""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:14,2022-07-06 16:11:16,1.967s,PASSED
+"setText(findTestObject(""Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e""), ""pant"")",Chrome 103.0.5060.114,,,2022-07-06 16:11:16,2022-07-06 16:11:20,4.121s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e""), Keys.chord(ENTER))",Chrome 103.0.5060.114,,,2022-07-06 16:11:20,2022-07-06 16:11:54,33.896s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top""))",Chrome 103.0.5060.114,,,2022-07-06 16:11:54,2022-07-06 16:11:56,1.958s,PASSED
