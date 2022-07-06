@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="mfirstestsuite" time="45.776" tests="1" failures="0" errors="0">
+   <testsuite name="mfirstestsuite" tests="1" failures="0" errors="0" time="45.776" skipped="0" timestamp="2022-07-06 16:30:40" hostname="jules - 192.168.2.22" id="Test Suites/mfirstestsuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\jules\\git\\katalon_demo\\Reports\\20220706_163034\\mfirstestsuite\\20220706_163035"/>
+         <property name="logFiles" value="C:\\Users\\jules\\git\\katalon_demo\\Reports\\20220706_163034\\mfirstestsuite\\20220706_163035\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jules - 192.168.2.22"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="browser" value="Chrome 103.0.5060.114"/>
+         <property name="hostAddress" value="192.168.2.22"/>
+         <property name="sessionId" value="db46a9c2b21958362a4072bf4e5fdc46"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/mytestcase" time="45.456" classname="Test Cases/mytestcase" status="PASSED">
+         <system-out><![CDATA[2022-07-06 16:30:40 - [TEST_CASE][PASSED] - Test Cases/mytestcase: Test Cases/mytestcase
+
+2022-07-06 16:30:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-06 16:30:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-06 16:30:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-06 16:30:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-06 16:30:43 - [TEST_STEP][PASSED] - navigateToUrl("https://demo-store.katalon.com/"): Navigate to 'https://demo-store.katalon.com/' successfully
+
+2022-07-06 16:30:45 - [MESSAGE][PASSED] - Navigate to 'https://demo-store.katalon.com/' successfully
+
+2022-07-06 16:30:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/label_Ascending")): Object: 'Object Repository/Page_Zack Market/label_Ascending' is clicked on
+
+2022-07-06 16:30:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/label_Ascending' is clicked on
+
+2022-07-06 16:30:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO")): Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO")): Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO")): Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO' is clicked on
+
+2022-07-06 16:30:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/label_Greater Than 89")): Object: 'Object Repository/Page_Zack Market/label_Greater Than 89' is clicked on
+
+2022-07-06 16:30:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/label_Greater Than 89' is clicked on
+
+2022-07-06 16:30:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/span_Clear All")): Object: 'Object Repository/Page_Zack Market/span_Clear All' is clicked on
+
+2022-07-06 16:30:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/span_Clear All' is clicked on
+
+2022-07-06 16:30:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/img_Clear All_card-img-top")): Object: 'Object Repository/Page_Zack Market/img_Clear All_card-img-top' is clicked on
+
+2022-07-06 16:30:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/img_Clear All_card-img-top' is clicked on
+
+2022-07-06 16:30:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/a_Women")): Object: 'Object Repository/Page_Zack Market/a_Women' is clicked on
+
+2022-07-06 16:30:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/a_Women' is clicked on
+
+2022-07-06 16:30:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/a_Blazer")): Object: 'Object Repository/Page_Zack Market/a_Blazer' is clicked on
+
+2022-07-06 16:30:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/a_Blazer' is clicked on
+
+2022-07-06 16:30:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/label_49 - 89")): Object: 'Object Repository/Page_Zack Market/label_49 - 89' is clicked on
+
+2022-07-06 16:30:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/label_49 - 89' is clicked on
+
+2022-07-06 16:30:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_All Products")): Object: 'Object Repository/Page_Zack Market/div_All Products' is clicked on
+
+2022-07-06 16:30:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_All Products' is clicked on
+
+2022-07-06 16:30:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top")): Object: 'Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top' is clicked on
+
+2022-07-06 16:30:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top' is clicked on
+
+2022-07-06 16:30:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_All Products_search_icon__1puna")): Object: 'Object Repository/Page_Zack Market/div_All Products_search_icon__1puna' is clicked on
+
+2022-07-06 16:30:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_All Products_search_icon__1puna' is clicked on
+
+2022-07-06 16:30:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e"), "pant"): Text 'pant' is set on object 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'
+
+2022-07-06 16:30:53 - [MESSAGE][PASSED] - Text 'pant' is set on object 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'
+
+2022-07-06 16:30:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'
+
+2022-07-06 16:31:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-07-06 16:31:24 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'. Try using Self-healing.
+
+2022-07-06 16:31:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e' was broken. Propose an alternative one: '//div[@id='root']/div/div/div/div/div[2]/div[3]/div/div[2]/div/input'.
+
+2022-07-06 16:31:25 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'
+
+2022-07-06 16:31:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top")): Object: 'Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top' is clicked on
+
+2022-07-06 16:31:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-06 16:30:40 - [TEST_SUITE][PASSED] - mfirstestsuite: Test Cases/mytestcase]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e",
+      "brokenLocator": "//input[@value\u003d\u0027\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/div[2]/div[3]/div/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220706_163034/mfirstestsuite/20220706_163035/Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e_idRelative.png"
+    }
+  ]
+}
