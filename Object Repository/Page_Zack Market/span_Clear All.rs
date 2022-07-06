@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clear All</name>
+   <tag></tag>
+   <elementGuidId>417f46ed-14ae-4110-b79e-ac33fe5aa2fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe702e4b-f82e-43d7-b451-a88b1e67d7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>7c7d9caf-528c-41ef-8277-6a104bd4635a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear All</value>
+      <webElementGuid>e033d522-ca53-4f0e-b592-89d78a21e580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;dashboard_filter__1u2Cj&quot;]/div[1]/div[@class=&quot;filter_outbox__1IMbW&quot;]/div[@class=&quot;filter_box__1bW3P&quot;]/div[3]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined filter_clear_btn__3JeuA&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>476a360c-3a5c-48db-8b46-eb95359acc02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[3]/button/span</value>
+      <webElementGuid>e5623f5d-aa7e-4a87-96a9-c0570b30c814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Greater Than $89'])[1]/following::span[1]</value>
+      <webElementGuid>35a01efa-e25a-4a3a-aa20-4394be7d69bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$49 - $89'])[1]/following::span[2]</value>
+      <webElementGuid>3b336ade-ce3f-488e-95b5-d416e5a788e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASCENDING'])[1]/preceding::span[4]</value>
+      <webElementGuid>1390b329-0e40-44a7-8f02-a53327ea151d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[1]/preceding::span[4]</value>
+      <webElementGuid>2ceca557-8a46-4c16-814c-58fd6fed42c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clear All']/parent::*</value>
+      <webElementGuid>6bc4f7b3-62f1-4b17-b400-021c6dd8d698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>8b68b256-67ac-4ae0-b7d7-db69512c972c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Clear All' or . = 'Clear All')]</value>
+      <webElementGuid>5166c097-2937-4805-8809-d9d53e631b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

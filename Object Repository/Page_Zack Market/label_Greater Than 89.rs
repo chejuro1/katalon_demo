@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Greater Than 89</name>
+   <tag></tag>
+   <elementGuidId>df9cfea8-f041-4c7e-8c75-18033ae733bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]/div[6]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d93cb8ea-4c53-4694-a8b4-3b988c3b57e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Greater Than $89</value>
+      <webElementGuid>6b9ede61-5288-4a72-878d-56a8e2b00466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;dashboard_outbox__1-m91&quot;]/div[@class=&quot;dashboard_box__3yhj7&quot;]/div[@class=&quot;dashboard_filter__1u2Cj&quot;]/div[1]/div[@class=&quot;filter_outbox__1IMbW&quot;]/div[@class=&quot;filter_box__1bW3P&quot;]/div[@class=&quot;filter_content__Vyog7&quot;]/div[@class=&quot;filter_block__346dt&quot;]/div[@class=&quot;checkbox_outbox__1j2tl&quot;]/label[1]</value>
+      <webElementGuid>ecf8b91a-f97c-4e94-a387-682342f574ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[3]/div[6]/label</value>
+      <webElementGuid>08fe8b04-92c7-43f3-a7bf-cc775621d893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$49 - $89'])[1]/following::label[1]</value>
+      <webElementGuid>4795f3b9-23d4-436b-9bc6-22e9b10d7cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$39 - $49'])[1]/following::label[2]</value>
+      <webElementGuid>8dbd4dc7-838b-403e-b643-142ee145b5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/preceding::label[1]</value>
+      <webElementGuid>f726fef6-5b5a-42cb-ac05-d0faed7e6409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label</value>
+      <webElementGuid>afdb0c14-8e02-4b05-8aec-f5e2af2bc418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Greater Than $89' or . = 'Greater Than $89')]</value>
+      <webElementGuid>315ecdd2-9168-4943-82f9-831379a57e27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
