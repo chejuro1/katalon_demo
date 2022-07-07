@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+# pool:
+#   vmImage: ubuntu-latest
 
 # steps:
 # - script: docker pull katalonstudio/katalon
@@ -18,12 +18,12 @@ pool:
 #   inputs:
 #     artifactName: 'JUnit Report' 
 #     targetPath: report/
-# # pool:
-# #   vmImage: windows-latest
+pool:
+  vmImage: windows-latest
 
 steps:
 - task: katalonTask@1
   inputs:
     version: '8.3.5'
-    executeArgs: '-browserType="Chrome" -apiKey=$(apikey) -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"'
-    xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
+    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest" --config webui.autoUpdateDrivers=true'
+    # xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
