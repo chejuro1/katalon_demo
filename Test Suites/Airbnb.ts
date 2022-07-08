@@ -15,7 +15,7 @@
       <guid>b89c2d8b-f5c7-4413-8c96-d3535ac36ec1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Data_Driven_testing/Find a place</testCaseId>
+      <testCaseId>Test Cases/Data_Driven_testing/Find_a_place</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>5c85d8c9-f7b8-4fb6-a324-348d5fb87655</id>
@@ -27,15 +27,15 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>5c85d8c9-f7b8-4fb6-a324-348d5fb87655</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
          <variableId>3b9587d8-f426-49c6-b0d8-1e10cc5b15f7</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>5c85d8c9-f7b8-4fb6-a324-348d5fb87655</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedresult</value>
          <variableId>9677ec67-9b7f-40cf-8f2a-1b9a7f91fa40</variableId>
       </variableLink>
    </testCaseLink>

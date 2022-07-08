@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Find a place</name>
+   <name>Find_a_place</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a86af431-9486-4f7c-86d2-43663d7a264f</testCaseGuid>
