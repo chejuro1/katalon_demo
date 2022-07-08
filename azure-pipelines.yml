@@ -12,7 +12,7 @@ pool:
 steps:
 - script: docker pull katalonstudio/katalon
   displayName: 'Pull katalon sudio images'
-- script: docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Chrome" -apiKey=$(APIKEY) -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTestCollection"
+- script: docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Chrome" -apiKey=$(APIKEY) -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"
   displayName: 'Runnning Katalon TS_RegressionTest'
 - task: PublishPipelineArtifact@0
   inputs:
@@ -25,5 +25,5 @@ steps:
 # - task: katalonTask@1
 #   inputs:
 #     version: '8.3.5'
-#     executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb" '
+#     executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb" --config -webui.autoUpdateDrivers=true'
 #     # xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
