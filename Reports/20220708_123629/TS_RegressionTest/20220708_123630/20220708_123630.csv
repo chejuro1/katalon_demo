@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_RegressionTest,Chrome 103.0.5060.114,,,2022-07-08 12:36:37,2022-07-08 12:36:46,9.282s,PASSED
+,,,,,,,
+Test Cases/TS_RegressionTest,Chrome 103.0.5060.114,,,2022-07-08 12:36:37,2022-07-08 12:36:46,8.971s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-08 12:36:38,2022-07-08 12:36:40,2.488s,PASSED
+"navigateToUrl(""https://demo-store.katalon.com/"")",Chrome 103.0.5060.114,,,2022-07-08 12:36:40,2022-07-08 12:36:43,2.868s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/label_Descending""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:43,2022-07-08 12:36:43,0.517s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/img_x_card-img-top""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:43,2022-07-08 12:36:44,0.641s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_Brown_variants_color_pic__2r4gR""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:44,2022-07-08 12:36:45,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/button_XS""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:45,2022-07-08 12:36:45,0.396s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/a_XL""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:45,2022-07-08 12:36:46,0.517s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e""))",Chrome 103.0.5060.114,,,2022-07-08 12:36:46,2022-07-08 12:36:46,0.524s,PASSED
