@@ -25,5 +25,5 @@ steps:
 - task: katalonTask@1
   inputs:
     version: '8.3.5'
-    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb1" --config -webui.autoUpdateDrivers=true'
+    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb1"'
     # xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
