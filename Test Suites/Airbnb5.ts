@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Airbnb1</name>
+   <name>Airbnb5</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>51db384a-72ff-4efa-ab52-6a3d194cf577</testSuiteGuid>
+   <testSuiteGuid>a2d6597b-122f-4e3a-9901-78b369fb2971</testSuiteGuid>
    <testCaseLink>
-      <guid>c50d2511-637f-4fea-b6f6-ad816c3f03b7</guid>
+      <guid>7e6d6fe0-d57c-41ef-98b3-a7050ac920be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Data_Driven_testing/Airbnb1</testCaseId>
+      <testCaseId>Test Cases/Airbnb5</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

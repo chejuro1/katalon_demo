@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_20</name>
+   <tag></tag>
+   <elementGuidId>0406659a-fd12-464d-aa66-f7af0984877c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._1i4y2634 > div._k5mfsv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[4]/td[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28e1c82e-1d9c-49e9-b0b3-1acd8460de35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_k5mfsv</value>
+      <webElementGuid>45e1d9eb-a733-438a-8310-eb6fb84e0091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>dd85f0c9-03be-40f2-b729-6f51362f9166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel--tabs--0&quot;)/div[@class=&quot;_65d865&quot;]/div[@class=&quot;dhjkeof dir dir-ltr&quot;]/div[@class=&quot;_3hmsj&quot;]/div[@class=&quot;_si4jfmp&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_754zdu7&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_1svux14&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[4]/td[@class=&quot;_12fun97&quot;]/div[@class=&quot;_1258d0t&quot;]/div[@class=&quot;_1i4y2634&quot;]/div[@class=&quot;_k5mfsv&quot;]</value>
+      <webElementGuid>ae4ba76e-e7e5-4095-af76-4304a0f9ba14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[4]/td[4]/div/div/div</value>
+      <webElementGuid>c52ac5ac-778a-4c7b-80a2-f70f0d2abae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2022'])[1]/following::div[60]</value>
+      <webElementGuid>6e169c91-cf1f-4b49-9174-b870944ffc64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2022'])[1]/following::div[153]</value>
+      <webElementGuid>af1316f6-5a2a-4290-9f37-1517fccc45eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2022'])[1]/preceding::div[34]</value>
+      <webElementGuid>62f18dd6-056a-4cd3-b6b7-7ce5dc059aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2022'])[1]/preceding::div[130]</value>
+      <webElementGuid>76c5db5a-2a98-4ac0-8751-e6411ec9775e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[4]/td[4]/div/div/div</value>
+      <webElementGuid>4d9c3e5f-5eb2-485c-86b3-41ba45c2a152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '20' or . = '20')]</value>
+      <webElementGuid>3e7a5009-0c8b-4c6c-85d5-5902628a25e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
