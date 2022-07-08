@@ -21,35 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demo-store.katalon.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/label_Ascending'))
+WebUI.click(findTestObject('Object Repository/Demo_store/Page_Zack Market/div_ORDER_checkbox_design__sArRO'))
 
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO'))
+WebUI.click(findTestObject('Object Repository/Demo_store/Page_Zack Market/div_ORDER_checkbox_design__sArRO'))
 
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO'))
+WebUI.click(findTestObject('Object Repository/Demo_store/Page_Zack Market/div_ORDER_checkbox_design__sArRO'))
 
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/div_Men_checkbox_design__sArRO'))
+WebUI.click(findTestObject('Object Repository/Demo_store/Page_Zack Market/img_45.99 CAD_card-img-top'))
 
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/label_Greater Than 89'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/span_Clear All'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/img_Clear All_card-img-top'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/a_Women'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/a_Blazer'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/label_49 - 89'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/div_All Products'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top'))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/div_All Products_search_icon__1puna'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'), 'pant')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_Zack Market/img_25.99 CAD_card-img-top'))
+WebUI.click(findTestObject('Object Repository/Demo_store/Page_Zack Market/span_Buy Now'))
 

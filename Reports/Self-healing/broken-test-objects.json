@@ -19,6 +19,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Airbnb/Page_Search Result/div_Toronto, ON_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Demo_store/Page_Zack Market/div_39 - 49",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div/div/div/div/div[4]/div[3]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Basic Slim Jeans\u0027])[1]/preceding::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Demo_store/Page_Zack Market/div_39 - 49_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Demo_store/Page_Zack Market/img_Clear All_card-img-top",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div[2]/div/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Demo_store/Page_Zack Market/img_Clear All_card-img-top_position.png"
     }
   ]
 }
