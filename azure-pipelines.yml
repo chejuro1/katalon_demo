@@ -19,7 +19,7 @@ trigger:
 #     artifactName: 'JUnit Report' 
 #     targetPath: report/
 pool:
-  vmImage: windows-2022
+  vmImage: vs2017-win2016
 
 steps:
 - task: katalonTask@1
