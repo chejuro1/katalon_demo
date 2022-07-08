@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_23</name>
+   <tag></tag>
+   <elementGuidId>740639f4-1d87-444b-a88b-fdf1e15815b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._16ee05oh</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[3]/div/table/tbody/tr[4]/td[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b748a5f4-6409-49a9-8ffd-0bd994257029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_16ee05oh</value>
+      <webElementGuid>82e5126f-7711-413c-baef-6047ddb43dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>a71cd310-8ae4-40c4-84eb-d5099546ac39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel--tabs--0&quot;)/div[@class=&quot;_65d865&quot;]/div[@class=&quot;dhjkeof dir dir-ltr&quot;]/div[@class=&quot;_3hmsj&quot;]/div[@class=&quot;_si4jfmp&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_754zdu7&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_1svux14&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[4]/td[@class=&quot;_12fun97&quot;]/div[@class=&quot;_1258d0t&quot;]/div[@class=&quot;_16ee05oh&quot;]</value>
+      <webElementGuid>545b9cb9-8158-4f72-b510-5e6fd647b30c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[3]/div/table/tbody/tr[4]/td[3]/div/div</value>
+      <webElementGuid>59b34304-88e5-4bfc-b572-a839d63fc61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2022'])[1]/following::div[69]</value>
+      <webElementGuid>85086674-bfe1-4ddf-ab5b-093eadf36de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2022'])[1]/following::div[166]</value>
+      <webElementGuid>52f373b8-e7b7-4633-a6d8-3fb3c0b3aedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2022'])[1]/preceding::div[26]</value>
+      <webElementGuid>601bbb36-2ab6-4498-b667-c5b1e5757fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flexible dates'])[1]/preceding::div[119]</value>
+      <webElementGuid>4067e287-f4fb-4396-a242-1cb7bb168ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tbody/tr[4]/td[3]/div/div</value>
+      <webElementGuid>9aa72dde-83b8-494f-893e-b870c2f97fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '23' or . = '23')]</value>
+      <webElementGuid>81c23829-e845-4dd4-b382-36f1f44d21bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anywhere</name>
+   <tag></tag>
+   <elementGuidId>5227184c-4c8b-4c28-807f-123a9b3f7175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.f19g2zq0.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff35e666-e1b0-4edb-bc5a-7f8cd614a5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f19g2zq0 dir dir-ltr</value>
+      <webElementGuid>942a9388-ee9a-4dde-a772-490238cf956f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anywhere</value>
+      <webElementGuid>c731ebc8-d4e2-4552-808f-9aafedbcf2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter js-focus-visible&quot;]/body[@class=&quot;with-new-header&quot;]/div[5]/div[1]/div[@class=&quot;t1bgcr6e&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;_1unac3l&quot;]/div[@class=&quot;_1a5fl1v&quot;]/div[@class=&quot;_3hmsj&quot;]/div[1]/div[1]/div[@class=&quot;_upim4d&quot;]/div[@class=&quot;c1kae56o dir dir-ltr&quot;]/div[@class=&quot;h1wqqi3k dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[1]/div[@class=&quot;c1kn6kxw dir dir-ltr&quot;]/header[@class=&quot;c1kffd0v cxy853f dir dir-ltr&quot;]/div[@class=&quot;cdfwt5b cgf6h58 dir dir-ltr&quot;]/div[@class=&quot;cwdm1ai dir dir-ltr&quot;]/div[@class=&quot;c1yo0219 dir dir-ltr&quot;]/div[1]/div[1]/div[@class=&quot;lkm6i7z l1rzxhu2 lr5v90m dir dir-ltr&quot;]/div[@class=&quot;cs3bjhu dir dir-ltr&quot;]/button[@class=&quot;ffc0w66 dir dir-ltr&quot;]/div[@class=&quot;f19g2zq0 dir dir-ltr&quot;]</value>
+      <webElementGuid>de66ebbb-32da-4699-af73-b0f8229c6ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[1]</value>
+      <webElementGuid>b475f1b7-d938-4e31-8f76-7549b5a59131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your search'])[1]/following::div[1]</value>
+      <webElementGuid>c2da38ea-eb04-4f9d-aee2-9238a1958b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check-in / Checkout'])[1]/preceding::div[1]</value>
+      <webElementGuid>ac8f0387-f3ee-4983-91fa-f0b83fe130ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any week'])[1]/preceding::div[1]</value>
+      <webElementGuid>3fd76de4-2267-4260-9621-a9c9109ee77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anywhere']/parent::*</value>
+      <webElementGuid>20de2b8f-2732-4793-bbc0-f8fce16612ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>81d4b7b6-49d4-4e07-baa5-46ee331d825c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anywhere' or . = 'Anywhere')]</value>
+      <webElementGuid>ad9ccc43-3909-4f43-a65e-2bfb3ba1223f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

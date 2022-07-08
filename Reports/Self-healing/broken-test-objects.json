@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Airbnb/Page_Search Result/div_Toronto, ON",
+      "brokenLocator": "//div[@id\u003d\u0027bigsearch-query-location-suggestion-0\u0027]/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Navigate forward to access suggested results\u0027])[1]/following::div[10]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Airbnb/Page_Search Result/div_Toronto, ON_neighbor.png"
     }
   ]
 }

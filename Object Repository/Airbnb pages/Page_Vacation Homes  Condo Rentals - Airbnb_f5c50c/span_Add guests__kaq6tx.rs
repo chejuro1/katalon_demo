@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add guests__kaq6tx</name>
+   <tag></tag>
+   <elementGuidId>edc3f69a-a839-443d-bce9-4cd163b73ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._kaq6tx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-tabpanel']/div/div[5]/div[2]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>575afc32-b4b9-4dff-8eea-4fc90600797a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_kaq6tx</value>
+      <webElementGuid>6e2833da-42e1-4d78-aa2a-17c8e5bcb53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;i1wnljx3 dir dir-ltr&quot;]/div[@class=&quot;c2frgdd crbzydf dir dir-ltr&quot;]/div[@class=&quot;s1i622mb dir dir-ltr&quot;]/button[@class=&quot;b134py57 b14gupvm dir dir-ltr&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
+      <webElementGuid>a2f91065-177f-4749-ba86-57a98975888d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-tabpanel']/div/div[5]/div[2]/button/span/span</value>
+      <webElementGuid>172e60dd-61a8-436e-86fa-251d99a0c5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>3e4b4a0f-eb4b-4c27-a965-28e6085928f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

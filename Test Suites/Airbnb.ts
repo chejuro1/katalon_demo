@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Airbnb</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5193b4ae-a698-4e25-bdd2-7053f63e2af0</testSuiteGuid>
+   <testCaseLink>
+      <guid>b89c2d8b-f5c7-4413-8c96-d3535ac36ec1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data_Driven_testing/Find a place</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5c85d8c9-f7b8-4fb6-a324-348d5fb87655</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/100 cities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3b9587d8-f426-49c6-b0d8-1e10cc5b15f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9677ec67-9b7f-40cf-8f2a-1b9a7f91fa40</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

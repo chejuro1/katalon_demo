@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Airbnb,Chrome 103.0.5060.114,,,2022-07-08 10:26:01,2022-07-08 10:26:16,14.764s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_testing/Find a place,Chrome 103.0.5060.114,,,2022-07-08 10:26:01,2022-07-08 10:26:16,14.443s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-08 10:26:02,2022-07-08 10:26:04,2.483s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657288456_NmU1NzQ3MDAzZjY1"")",Chrome 103.0.5060.114,,,2022-07-08 10:26:04,2022-07-08 10:26:05,0.960s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Anywhere""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:05,2022-07-08 10:26:09,3.324s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Montreal"")",Chrome 103.0.5060.114,,,2022-07-08 10:26:09,2022-07-08 10:26:10,0.890s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Toronto, ON""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:10,2022-07-08 10:26:11,1.234s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_22""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:11,2022-07-08 10:26:12,0.779s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_23""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:12,2022-07-08 10:26:12,0.687s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:12,2022-07-08 10:26:13,0.577s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Jul. 8, 2022 - Toronto Sublets, Short _3890d7/img_Rare find_FMP-target""))",Chrome 103.0.5060.114,,,2022-07-08 10:26:13,2022-07-08 10:26:16,2.940s,PASSED

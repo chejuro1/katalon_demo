@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toronto, ON</name>
+   <tag></tag>
+   <elementGuidId>c39a7342-e191-4458-ba19-0690a81818b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._r1t6ga</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>186d9d71-4837-4c51-860d-0f3461d59ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_r1t6ga</value>
+      <webElementGuid>3f2725eb-5ed7-4d89-8fc9-5e51484dc881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toronto, ON</value>
+      <webElementGuid>9937084e-93e8-46ca-bf49-bc757a787d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;_1825a1k&quot;]/div[@class=&quot;_r1t6ga&quot;]</value>
+      <webElementGuid>99168804-9873-47c2-8abc-0162a67bc1b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      <webElementGuid>d12cde80-2bc7-410f-80e7-b6abe9d1ce06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate forward to access suggested results'])[1]/following::div[11]</value>
+      <webElementGuid>661d2bb9-1fac-45c4-91f1-b4144c1ad60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::div[11]</value>
+      <webElementGuid>79529d33-acda-4679-8951-127bda83cde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Midtown, Toronto, ON'])[1]/preceding::div[2]</value>
+      <webElementGuid>a21a301c-5f52-4769-9468-c1e0d2fdaa45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yorkville, Toronto, ON'])[1]/preceding::div[6]</value>
+      <webElementGuid>4855ea0b-1bb5-4206-b79d-62cb9e548778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Toronto, ON']/parent::*</value>
+      <webElementGuid>ddf65f1e-e915-4e45-823c-c540b54a3c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div</value>
+      <webElementGuid>27da5351-f686-4e0d-ba63-3bec589994c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toronto, ON' or . = 'Toronto, ON')]</value>
+      <webElementGuid>25e1727d-d12f-4436-b1ab-2949d10538ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
