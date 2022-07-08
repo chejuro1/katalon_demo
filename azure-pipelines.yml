@@ -12,18 +12,20 @@ pool:
 steps:
 - script: docker pull katalonstudio/katalon
   displayName: 'Pull katalon sudio images'
-- script: docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Chrome" -apiKey=$(APIKEY) -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb1"
+- script: docker run -t --rm -v "$(pwd)":/katalon/katalon/source katalonstudio/katalon katalon-execute.sh -browserType="Firefox " -apiKey=$(APIKEY) -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb1" --config -webui.autoUpdateDrivers=true
   displayName: 'Runnning Katalon TS_RegressionTest'
 - task: PublishPipelineArtifact@0
   inputs:
     artifactName: 'JUnit Report' 
     targetPath: report/
 # pool:
-#   vmImage: windows-2022
+#   # vmImage: vs2017-win2016
+#   vmImage: windows-latest
 
 # steps:
 # - task: katalonTask@1
 #   inputs:
 #     version: '8.3.5'
-#     executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb" '
+#     executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuiteCollectionPath="Test Suites/TS_RegressionTestCollection" --config -webui.autoUpdateDrivers=true'
 #     # xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
+#     #-testSuiteCollectionPath
