@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Montreal, QC</name>
+   <tag></tag>
+   <elementGuidId>9ee18b29-8bcd-41db-9cbe-6d23af3a1c4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._r1t6ga</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca0db285-748f-4a97-a6fe-1a4a12afb69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_r1t6ga</value>
+      <webElementGuid>7bbce4e4-a878-4b31-a6ec-86aa96fe6681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Montreal, QC</value>
+      <webElementGuid>6c48d5cf-e18d-43fc-b285-cb12c854a950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;_1825a1k&quot;]/div[@class=&quot;_r1t6ga&quot;]</value>
+      <webElementGuid>08a7478d-a90b-46b8-9302-27a67ddca485</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div[2]/div</value>
+      <webElementGuid>52a40f72-8251-4f71-8b47-9606afb96b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigate forward to access suggested results'])[1]/following::div[11]</value>
+      <webElementGuid>98cad242-70d4-4fb3-9ea0-215571987225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::div[11]</value>
+      <webElementGuid>e36a73cf-87a8-4bd6-bbaa-21cd0e5851b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moncton, NB'])[1]/preceding::div[2]</value>
+      <webElementGuid>d99ecfbf-720e-4d92-bdff-7a93c6bbfbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mont-Tremblant, QC'])[1]/preceding::div[6]</value>
+      <webElementGuid>d4a2db70-8ee5-41b9-9845-96e2415f642c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Montreal, QC']/parent::*</value>
+      <webElementGuid>bdedd0d6-b021-4490-91f3-4170cf05e17c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div[2]/div</value>
+      <webElementGuid>cd256a14-526b-4221-b2f4-22da25333f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Montreal, QC' or . = 'Montreal, QC')]</value>
+      <webElementGuid>1ecb19b8-519d-476b-8eaf-18edf80a8db2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

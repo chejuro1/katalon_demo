@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Data_Driven_testing/Find_a_place","testCaseId":"Test Cases/Data_Driven_testing/Find_a_place","iterationVariableName":"","bindedValues":{"city":"\u0027Atlanta\u0027","expectedresult":"\u0027Stays in Atlanta\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_testing/Find_a_place","testCaseId":"Test Cases/Data_Driven_testing/Find_a_place","iterationVariableName":"","bindedValues":{"city":"\u0027Toronto\u0027","expectedresult":"\u0027Stays in Toronto\u0027"}}
+{"testCaseName":"Test Cases/Data_Driven_testing/Find_a_place","testCaseId":"Test Cases/Data_Driven_testing/Find_a_place","iterationVariableName":"","bindedValues":{"city":"\u0027Montreal\u0027","expectedresult":"\u0027Stays in Montreal\u0027"}}

@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>6038c236-97ec-4d5c-bef3-a9f34850bd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_kaq6tx</value>
+      <webElementGuid>833479c5-0530-41c2-8df5-f536bc3cd7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-tabpanel&quot;)/div[@class=&quot;i1wnljx3 dir dir-ltr&quot;]/div[@class=&quot;c2frgdd crbzydf dir dir-ltr&quot;]/div[@class=&quot;s1i622mb dir dir-ltr&quot;]/button[@class=&quot;b134py57 b14gupvm dir dir-ltr&quot;]/span[@class=&quot;_jxxpcd&quot;]/span[@class=&quot;_kaq6tx&quot;]</value>
+      <webElementGuid>2927bbe2-e2dc-43bd-8d1c-a4a3780539d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>575afc32-b4b9-4dff-8eea-4fc90600797a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>6e2833da-42e1-4d78-aa2a-17c8e5bcb53e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search-tabpanel']/div/div[5]/div[2]/button/span/span</value>
-      <webElementGuid>172e60dd-61a8-436e-86fa-251d99a0c5e1</webElementGuid>
+      <webElementGuid>7ffccc40-689a-44db-82d4-bc839593a488</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +78,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span</value>
-      <webElementGuid>3e4b4a0f-eb4b-4c27-a965-28e6085928f4</webElementGuid>
+      <webElementGuid>dfe43249-aab6-4750-93aa-6b234d10de8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Airbnb,Chrome 103.0.5060.114,,,2022-07-08 12:00:35,2022-07-08 12:01:29,54.405s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_testing/Find_a_place,Chrome 103.0.5060.114,,,2022-07-08 12:00:35,2022-07-08 12:00:50,15.285s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-08 12:00:36,2022-07-08 12:00:38,2.720s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657288456_NmU1NzQ3MDAzZjY1"")",Chrome 103.0.5060.114,,,2022-07-08 12:00:38,2022-07-08 12:00:40,1.441s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Anywhere""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:40,2022-07-08 12:00:43,2.885s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Montreal"")",Chrome 103.0.5060.114,,,2022-07-08 12:00:43,2022-07-08 12:00:44,1.016s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Toronto, ON""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:44,2022-07-08 12:00:45,1.627s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_22""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:45,2022-07-08 12:00:46,0.736s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_23""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:46,2022-07-08 12:00:46,0.516s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:46,2022-07-08 12:00:47,0.620s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Jul. 8, 2022 - Toronto Sublets, Short _3890d7/img_Rare find_FMP-target""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:47,2022-07-08 12:00:50,3.238s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_testing/Find_a_place,Chrome 103.0.5060.114,,,2022-07-08 12:00:50,2022-07-08 12:01:15,24.389s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-08 12:00:50,2022-07-08 12:00:52,2.036s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657288456_NmU1NzQ3MDAzZjY1"")",Chrome 103.0.5060.114,,,2022-07-08 12:00:52,2022-07-08 12:00:54,1.357s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Anywhere""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:54,2022-07-08 12:00:57,2.818s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Montreal"")",Chrome 103.0.5060.114,,,2022-07-08 12:00:57,2022-07-08 12:00:58,0.948s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Toronto, ON""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:58,2022-07-08 12:00:59,1.294s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_22""))",Chrome 103.0.5060.114,,,2022-07-08 12:00:59,2022-07-08 12:01:10,10.670s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_23""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:10,2022-07-08 12:01:10,0.605s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:10,2022-07-08 12:01:11,0.631s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Jul. 8, 2022 - Toronto Sublets, Short _3890d7/img_Rare find_FMP-target""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:11,2022-07-08 12:01:15,4.001s,PASSED
+,,,,,,,
+Test Cases/Data_Driven_testing/Find_a_place,Chrome 103.0.5060.114,,,2022-07-08 12:01:15,2022-07-08 12:01:29,14.140s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-08 12:01:15,2022-07-08 12:01:17,2.120s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657288456_NmU1NzQ3MDAzZjY1"")",Chrome 103.0.5060.114,,,2022-07-08 12:01:17,2022-07-08 12:01:18,1.020s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Anywhere""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:18,2022-07-08 12:01:21,3.010s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Montreal"")",Chrome 103.0.5060.114,,,2022-07-08 12:01:21,2022-07-08 12:01:22,0.923s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Toronto, ON""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:22,2022-07-08 12:01:23,1.503s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_22""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:23,2022-07-08 12:01:24,0.810s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_23""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:24,2022-07-08 12:01:25,0.604s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:25,2022-07-08 12:01:25,0.584s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Jul. 8, 2022 - Toronto Sublets, Short _3890d7/img_Rare find_FMP-target""))",Chrome 103.0.5060.114,,,2022-07-08 12:01:25,2022-07-08 12:01:29,3.496s,PASSED

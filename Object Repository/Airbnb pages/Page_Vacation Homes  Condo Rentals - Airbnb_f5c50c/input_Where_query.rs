@@ -22,6 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>c175923a-59a9-48c0-94b0-5cfee8ad6297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>i1d0r31c dir dir-ltr focus-visible</value>
+      <webElementGuid>7ee396e2-5820-4f45-936f-ad13d7f1ab9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>36329475-7ea9-4a75-a541-31c26510ee74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>4a81014c-0071-43a5-9338-37f6f0b08bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocorrect</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>656d6a08-1774-4583-9c10-1752fa80e386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>347bb0b2-3dd2-4fea-b208-e380d16cdd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bigsearch-query-location-input</value>
+      <webElementGuid>dccceb47-6950-40bd-8d35-9fe1284ac48e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>query</value>
+      <webElementGuid>88f9c2fb-a63f-4d11-975c-5474f912e0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>bigsearch-query-location-description</value>
+      <webElementGuid>ff86616e-c410-49c1-bf9c-88f5a269f666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search destinations</value>
+      <webElementGuid>31ae9d43-717e-4834-8f9c-c7fd89a7e823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>structured-search-input-field-query</value>
+      <webElementGuid>aa69e86d-eb29-4e8f-ac4a-dcb4c027c876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-input&quot;)</value>
+      <webElementGuid>6fdc8877-be5f-46f7-b854-0d22e2dff84a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
       <webElementGuid>c27cf958-55d0-4a08-9cee-feb7eea4e9ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -65,7 +161,7 @@
       <webElementGuid>4546c2ff-66bf-46df-a059-4c475886e5cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -73,7 +169,7 @@
       <webElementGuid>89592eea-4aad-443e-ad99-1a13974c1cbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -89,7 +185,7 @@
       <webElementGuid>797d785c-0045-4d7a-b71c-7d83364469da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -118,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='bigsearch-query-location-input']</value>
-      <webElementGuid>ca0b9e6c-da26-4662-9f0f-3fc724648d00</webElementGuid>
+      <webElementGuid>c056798d-e3b7-4139-add8-5e47c00b970d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='search-tabpanel']/div/div/div/label/div/input</value>
-      <webElementGuid>b295c642-a912-4b2f-957c-4c2e2d4893c9</webElementGuid>
+      <webElementGuid>7b23b16a-845c-4413-95d5-9436f24ab92a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/div/input</value>
-      <webElementGuid>5c17f585-91c3-4744-843c-ab1bc6ce6558</webElementGuid>
+      <webElementGuid>1f03b937-d5fa-4472-80a4-c10700da6ec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'bigsearch-query-location-input' and @name = 'query' and @placeholder = 'Search destinations']</value>
-      <webElementGuid>a6d36a8c-f0f5-4c72-a8c3-f7cfc11d200f</webElementGuid>
+      <webElementGuid>b7c63d83-28cd-4511-a382-272f040c6eab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

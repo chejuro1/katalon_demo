@@ -7,15 +7,47 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div._1i4y2634 > div._k5mfsv</value>
+         <value>div._1i4y2634</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[4]/td[6]/div/div/div</value>
+         <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[4]/td[6]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f2f3bbc-80d6-4cf1-9222-be2029890f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1i4y2634</value>
+      <webElementGuid>16676a5f-c1d0-4a59-be41-e3ef0281bb92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>c4eed9e8-b836-445f-8f02-c767e034cc8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel--tabs--0&quot;)/div[@class=&quot;_65d865&quot;]/div[@class=&quot;dhjkeof dir dir-ltr&quot;]/div[@class=&quot;_3hmsj&quot;]/div[@class=&quot;_si4jfmp&quot;]/div[1]/div[1]/div[@class=&quot;_14676s3&quot;]/div[@class=&quot;_1foj6yps&quot;]/div[@class=&quot;_754zdu7&quot;]/div[@class=&quot;_1lds9wb&quot;]/div[@class=&quot;_1svux14&quot;]/table[@class=&quot;_cvkwaj&quot;]/tbody[1]/tr[4]/td[@class=&quot;_12fun97&quot;]/div[@class=&quot;_1258d0t&quot;]/div[@class=&quot;_1i4y2634&quot;]</value>
+      <webElementGuid>4db262c7-8e94-4b9a-bb70-5d68852f6069</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>51bf8fe0-fae3-4e06-9902-fe6f3457ada3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -50,6 +82,62 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel--tabs--0']/div/div/div/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[4]/td[6]/div/div</value>
+      <webElementGuid>db82d813-c22e-407a-b1dc-46134f11ce98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July 2022'])[1]/following::div[65]</value>
+      <webElementGuid>e0f4538a-b442-4de5-884a-df1c4917a855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 2022'])[1]/following::div[158]</value>
+      <webElementGuid>e8e5b2a3-f23e-4312-a0b2-5c3599f446d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2022'])[1]/preceding::div[29]</value>
+      <webElementGuid>16b5585d-ceb5-4606-af26-af03881cb7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 2022'])[1]/preceding::div[125]</value>
+      <webElementGuid>1acf3b49-8105-43b1-b7f8-ae9992e06cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[4]/td[6]/div/div</value>
+      <webElementGuid>78ba4e65-e5b3-442d-8870-310a81667ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '22' or . = '22')]</value>
+      <webElementGuid>083d4db0-879c-447b-9368-a712737a516d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -95,13 +183,5 @@
       <type>Main</type>
       <value>//div[2]/div/table/tbody/tr[4]/td[6]/div/div/div</value>
       <webElementGuid>92b15fee-4a8c-40b2-ac3e-80a8d8d6d972</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = '22' or . = '22')]</value>
-      <webElementGuid>3d08e55c-4360-4604-923e-ce833692f768</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
