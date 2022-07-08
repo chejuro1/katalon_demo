@@ -19,11 +19,11 @@ trigger:
 #     artifactName: 'JUnit Report' 
 #     targetPath: report/
 pool:
-  vmImage: windows-latest
+  vmImage: vs2017-win2016
 
 steps:
 - task: katalonTask@1
   inputs:
-    version: '8.3.5'
-    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest" --config webui.autoUpdateDrivers=true'
+    version: '8.2.5'
+    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/" --config webui.autoUpdateDrivers=true'
     # xvfbConfiguration: '-a -n 0 -s " - screen 0 1024x768x24"'
