@@ -13,7 +13,7 @@ steps:
 - task: katalonTask@1
   inputs:
     version: '8.4.0'
-    executeArgs: '-browserType="Edge" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"  --config -webui.autoUpdateDrivers=true -adoTestRunName="Test_Run_Katalon_Edge"  -adoPlanId=848'
+    executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Airbnb5"  --config -webui.autoUpdateDrivers=true -adoTestRunName="Test_Run_Airbnb"  -adoPlanId=848'
     #-testSuiteCollectionPath
     #--info -adoReleaseDefID=1
     #-adoPlanId=842
