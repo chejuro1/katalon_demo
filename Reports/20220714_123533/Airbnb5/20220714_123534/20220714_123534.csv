@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Airbnb5,Chrome 103.0.5060.114,,,2022-07-14 12:35:39,2022-07-14 12:35:51,12.095s,PASSED
+,,,,,,,
+Test Cases/Airbnb5,Chrome 103.0.5060.114,,,2022-07-14 12:35:40,2022-07-14 12:35:51,11.757s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-14 12:35:40,2022-07-14 12:35:43,2.587s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657307908_N2QxYzlhYTQxNmIw"")",Chrome 103.0.5060.114,,,2022-07-14 12:35:43,2022-07-14 12:35:45,2.958s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/button_LocationAnywhere""))",Chrome 103.0.5060.114,,,2022-07-14 12:35:45,2022-07-14 12:35:47,1.830s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Toronto"")",Chrome 103.0.5060.114,,,2022-07-14 12:35:47,2022-07-14 12:35:48,0.875s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates""))",Chrome 103.0.5060.114,,,2022-07-14 12:35:48,2022-07-14 12:35:49,1.138s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20""))",Chrome 103.0.5060.114,,,2022-07-14 12:35:49,2022-07-14 12:35:50,0.747s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_14""))",Chrome 103.0.5060.114,,,2022-07-14 12:35:50,2022-07-14 12:35:51,0.608s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-14 12:35:51,2022-07-14 12:35:51,0.595s,PASSED
