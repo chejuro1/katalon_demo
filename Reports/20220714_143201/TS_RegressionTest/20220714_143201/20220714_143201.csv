@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_RegressionTest,Chrome 103.0.5060.114,,,2022-07-14 14:32:06,2022-07-14 14:32:25,19.375s,PASSED
+,,,,,,,
+Test Cases/TS_RegressionTest,Chrome 103.0.5060.114,,,2022-07-14 14:32:06,2022-07-14 14:32:14,8.137s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-14 14:32:07,2022-07-14 14:32:09,2.645s,PASSED
+"navigateToUrl(""https://demo-store.katalon.com/"")",Chrome 103.0.5060.114,,,2022-07-14 14:32:09,2022-07-14 14:32:11,1.972s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/label_Descending""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:11,2022-07-14 14:32:12,0.507s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/img_x_card-img-top""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:12,2022-07-14 14:32:12,0.648s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/div_Brown_variants_color_pic__2r4gR""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:12,2022-07-14 14:32:13,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/button_XS""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:13,2022-07-14 14:32:13,0.395s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/a_XL""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:13,2022-07-14 14:32:14,0.523s,PASSED
+"click(findTestObject(""Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:14,2022-07-14 14:32:14,0.491s,PASSED
+,,,,,,,
+Test Cases/Airbnb5,Chrome 103.0.5060.114,,,2022-07-14 14:32:14,2022-07-14 14:32:25,10.941s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.114,,,2022-07-14 14:32:15,2022-07-14 14:32:17,1.964s,PASSED
+"navigateToUrl(""https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657307908_N2QxYzlhYTQxNmIw"")",Chrome 103.0.5060.114,,,2022-07-14 14:32:17,2022-07-14 14:32:18,1.320s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/button_LocationAnywhere""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:18,2022-07-14 14:32:21,3.249s,PASSED
+"setText(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query""), ""Toronto"")",Chrome 103.0.5060.114,,,2022-07-14 14:32:21,2022-07-14 14:32:22,0.983s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:22,2022-07-14 14:32:23,1.121s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:23,2022-07-14 14:32:24,0.680s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_14""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:24,2022-07-14 14:32:25,0.593s,PASSED
+"click(findTestObject(""Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx""))",Chrome 103.0.5060.114,,,2022-07-14 14:32:25,2022-07-14 14:32:25,0.620s,PASSED

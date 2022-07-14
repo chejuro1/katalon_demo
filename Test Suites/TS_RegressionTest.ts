@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7602e7e5-67e8-4444-be38-8745e61a708d</guid>
+      <guid>b410d645-6048-44a5-b544-bad7aadc4aee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/mytestcase</testCaseId>
+      <testCaseId>Test Cases/Airbnb5</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
