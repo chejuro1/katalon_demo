@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_RegressionTest" time="24.141" tests="2" failures="0" errors="0">
+   <testsuite name="TS_RegressionTest" tests="2" failures="0" errors="0" time="24.141" skipped="0" timestamp="2022-07-14 15:15:55" hostname="jules - 192.168.2.22" id="Test Suites/TS_RegressionTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\jules\\git\\katalon_demo\\Reports\\20220714_151549\\TS_RegressionTest\\20220714_151549"/>
+         <property name="logFiles" value="C:\\Users\\jules\\git\\katalon_demo\\Reports\\20220714_151549\\TS_RegressionTest\\20220714_151549\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="jules - 192.168.2.22"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="browser" value="Chrome 103.0.5060.114"/>
+         <property name="hostAddress" value="192.168.2.22"/>
+         <property name="sessionId" value="3b7c73960383321a7fc15d6a44b4ad9b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TS_RegressionTest" time="9.98" classname="Test Cases/TS_RegressionTest" status="PASSED">
+         <system-out><![CDATA[2022-07-14 15:15:55 - [TEST_CASE][PASSED] - Test Cases/TS_RegressionTest: Test Cases/TS_RegressionTest
+
+2022-07-14 15:15:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-14 15:15:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-14 15:15:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-14 15:15:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-14 15:15:59 - [TEST_STEP][PASSED] - navigateToUrl("https://demo-store.katalon.com/"): Navigate to 'https://demo-store.katalon.com/' successfully
+
+2022-07-14 15:16:02 - [MESSAGE][PASSED] - Navigate to 'https://demo-store.katalon.com/' successfully
+
+2022-07-14 15:16:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/label_Descending")): Object: 'Object Repository/Page_Zack Market/label_Descending' is clicked on
+
+2022-07-14 15:16:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/label_Descending' is clicked on
+
+2022-07-14 15:16:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/img_x_card-img-top")): Object: 'Object Repository/Page_Zack Market/img_x_card-img-top' is clicked on
+
+2022-07-14 15:16:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/img_x_card-img-top' is clicked on
+
+2022-07-14 15:16:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/div_Brown_variants_color_pic__2r4gR")): Object: 'Object Repository/Page_Zack Market/div_Brown_variants_color_pic__2r4gR' is clicked on
+
+2022-07-14 15:16:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/div_Brown_variants_color_pic__2r4gR' is clicked on
+
+2022-07-14 15:16:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/button_XS")): Object: 'Object Repository/Page_Zack Market/button_XS' is clicked on
+
+2022-07-14 15:16:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/button_XS' is clicked on
+
+2022-07-14 15:16:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/a_XL")): Object: 'Object Repository/Page_Zack Market/a_XL' is clicked on
+
+2022-07-14 15:16:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/a_XL' is clicked on
+
+2022-07-14 15:16:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e")): Object: 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e' is clicked on
+
+2022-07-14 15:16:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Zack Market/input_All Products_auto_input__2ud9e' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Airbnb5" time="13.748" classname="Test Cases/Airbnb5" status="PASSED">
+         <system-out><![CDATA[2022-07-14 15:16:05 - [TEST_CASE][PASSED] - Test Cases/Airbnb5: Test Cases/Airbnb5
+
+2022-07-14 15:16:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-07-14 15:16:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-07-14 15:16:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-07-14 15:16:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-07-14 15:16:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-07-14 15:16:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657307908_N2QxYzlhYTQxNmIw"): Navigate to 'https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657307908_N2QxYzlhYTQxNmIw' successfully
+
+2022-07-14 15:16:10 - [MESSAGE][PASSED] - Navigate to 'https://www.airbnb.ca/?locale=en&_set_bev_on_new_domain=1657307908_N2QxYzlhYTQxNmIw' successfully
+
+2022-07-14 15:16:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/button_LocationAnywhere")): Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/button_LocationAnywhere' is clicked on
+
+2022-07-14 15:16:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/button_LocationAnywhere' is clicked on
+
+2022-07-14 15:16:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query"), "Toronto"): Text 'Toronto' is set on object 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query'
+
+2022-07-14 15:16:15 - [MESSAGE][PASSED] - Text 'Toronto' is set on object 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/input_Where_query'
+
+2022-07-14 15:16:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates")): Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates' is clicked on
+
+2022-07-14 15:16:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates' is clicked on
+
+2022-07-14 15:16:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20")): Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20' is clicked on
+
+2022-07-14 15:16:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20' is clicked on
+
+2022-07-14 15:16:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_14")): Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_14' is clicked on
+
+2022-07-14 15:16:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_14' is clicked on
+
+2022-07-14 15:16:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx")): Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx' is clicked on
+
+2022-07-14 15:16:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/span_Add guests__kaq6tx' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-14 15:15:55 - [TEST_SUITE][PASSED] - TS_RegressionTest: Test Cases/Airbnb5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
