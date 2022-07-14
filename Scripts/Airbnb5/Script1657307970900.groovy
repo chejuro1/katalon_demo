@@ -27,6 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Airbnb pages/Page_Vacation Homes
     'Toronto')
 
 WebUI.click(findTestObject('Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_Add dates'))
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Airbnb pages/Page_Vacation Homes  Condo Rentals - Airbnb_f5c50c/div_20'))
 
