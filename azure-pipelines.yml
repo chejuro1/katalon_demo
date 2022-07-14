@@ -12,7 +12,7 @@ pool:
 steps:
 - task: katalonTask@1
   inputs:
-    version: '8.3.5'
+    version: '8.4.0'
     executeArgs: '-browserType="Chrome" -apiKey=$(apikey)  -retry=0 -statusDelay=15 -testSuitePath="Test Suites/TS_RegressionTest"  --config -webui.autoUpdateDrivers=true -adoTestRunName="mytestcase" --info -adoReleaseDefID=1 -adoPlanId=848'
     #-testSuiteCollectionPath
     #--info -adoReleaseDefID=1
